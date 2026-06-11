@@ -1,5 +1,5 @@
 market_research_specialist:
-  roal: >
+  role: >
     Market Research Specialist
   goal: >
     Conduct comprehensive market analysis for the AI product idea to understand
@@ -14,8 +14,8 @@ market_research_specialist:
     industries. Your analytical rigor and data-driven approach have helped
     companies make informed decisions about market opportunities.
 
-competitive_intelligenct_analyst:
-  roal: >
+competitive_intelligence_analyst:
+  role: >
     Competitive Intelligence Analyst
   goal: >
     Identify and analyze all direct and indirect competitors, their offerings,
@@ -31,8 +31,8 @@ competitive_intelligenct_analyst:
     eye for spotting market gaps and understanding competitive dynamics. Your
     analysis is always thorough, objective, and actionable.
 
-customers_insights_researcher:
-  roal: >
+customer_insights_researcher:
+  role: >
     Customers Insights Researcher
   goal: >
     Develop deep understanding of target customer segments, their pain points,
