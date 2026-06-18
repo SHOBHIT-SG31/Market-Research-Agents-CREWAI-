@@ -71,3 +71,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 | **AI Hallucinations** | Medium | High | RAG (Retrieval Augmented Generation) constraints. |
 | **Competitive Entry** | High | Medium | Focus on "Community/WhatsApp" niche. |
 
+---
