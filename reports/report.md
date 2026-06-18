@@ -60,3 +60,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 *   **Team:** 1 CEO, 1 CTO, 2 Full-Stack Engineers (specializing in API/AI Orchestration), 1 Growth Marketer.
 *   **Runway:** 18 months to reach the first $1M ARR.
 
+---
