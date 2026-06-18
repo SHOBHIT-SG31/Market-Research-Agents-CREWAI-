@@ -33,3 +33,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 ## 3. Revenue Model and Projections
 *   **Revenue Streams:** Tiered SaaS subscriptions + "Add-on" credit packs for high-volume users.
 *   **Unit Economics:** Target CAC of $40; LTV of $850 (based on 12-month retention).
+*   **3-Year Projection (USD millions):**
