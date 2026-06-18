@@ -22,3 +22,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 | Tier | Price/Mo | Target Audience | Key Features |
 | :--- | :--- | :--- | :--- |
 | **Starter** | $29 | Solo Creator | 5 videos/mo, LinkedIn/X/FB, standard tone. |
+| **Growth** | $79 | Pro Creators | 20 videos/mo, All platforms + WhatsApp, Custom Brand Voice. |
