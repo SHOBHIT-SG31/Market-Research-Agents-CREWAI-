@@ -23,3 +23,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 | :--- | :--- | :--- | :--- |
 | **Starter** | $29 | Solo Creator | 5 videos/mo, LinkedIn/X/FB, standard tone. |
 | **Growth** | $79 | Pro Creators | 20 videos/mo, All platforms + WhatsApp, Custom Brand Voice. |
+| **Agency** | $199 | SMB/Agencies | Unlimited, Team seats, White-labeling, API access. |
