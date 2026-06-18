@@ -61,3 +61,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 *   **Runway:** 18 months to reach the first $1M ARR.
 
 ---
+
