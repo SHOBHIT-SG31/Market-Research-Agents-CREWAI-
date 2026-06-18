@@ -69,3 +69,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 | **API Policy Changes** | High | High | Multi-platform strategy (don't rely on one). |
 | **Platform Bias** | Medium | Medium | "Human-in-the-Loop" ensures high engagement content. |
 | **AI Hallucinations** | Medium | High | RAG (Retrieval Augmented Generation) constraints. |
+| **Competitive Entry** | High | Medium | Focus on "Community/WhatsApp" niche. |
