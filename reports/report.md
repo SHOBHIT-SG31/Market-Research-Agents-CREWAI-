@@ -55,3 +55,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 ---
 
 ## 5. Resource Requirements & Funding
+*   **Initial Funding:** $1.5M Seed Round.
