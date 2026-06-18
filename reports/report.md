@@ -74,3 +74,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 ---
 
 ## 7. Investment Thesis
+*   **The Moat:** The "Prompt Library" moat. As users fine-tune their brand voice and tone agents, the switching cost becomes prohibitive.
