@@ -88,3 +88,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 2.  **Days 30-60:** Recruit 100 beta testers from the YouTube creator community for direct feedback.
 3.  **Days 60-90:** Formalize the "Human-in-the-Loop" dashboard—this is the non-negotiable feature for user retention.
 
+**Conditional Requirement:** If user retention on the "Growth" tier falls below 60% after 3 months, pivot focus from "Automated Posting" to "Content Strategy Optimization," leveraging the tool as a recommendation engine rather than an auto-poster.
