@@ -64,3 +64,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 
 ## 6. Risk Analysis & Matrix
 
+| Risk | Likelihood | Impact | Mitigation |
