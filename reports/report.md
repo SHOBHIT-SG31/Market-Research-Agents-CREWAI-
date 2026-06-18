@@ -37,3 +37,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 
 | Year | Revenue | Users | Margin |
 | :--- | :--- | :--- | :--- |
+| 1 | $1.2M | 2,500 | 45% |
