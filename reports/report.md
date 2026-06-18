@@ -66,3 +66,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 
 | Risk | Likelihood | Impact | Mitigation |
 | :--- | :--- | :--- | :--- |
+| **API Policy Changes** | High | High | Multi-platform strategy (don't rely on one). |
