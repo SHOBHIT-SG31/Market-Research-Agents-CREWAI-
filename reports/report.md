@@ -30,3 +30,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 
 ---
 
+## 3. Revenue Model and Projections
