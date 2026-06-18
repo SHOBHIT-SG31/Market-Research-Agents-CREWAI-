@@ -6,3 +6,4 @@
 **Subject:** Investment Thesis and Strategic Roadmap for "Repurposely"
 
 ---
+
