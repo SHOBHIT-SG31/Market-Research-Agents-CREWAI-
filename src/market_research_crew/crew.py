@@ -29,28 +29,28 @@ class MarketResearchCrew():
     @agent
     def market_research_specialist(self) -> Agent:
         return Agent(
-            config = self.agents_config["market_research_specialist"],
+            config = self.agents_config["market_research_specialist"],  # type: ignore[index]
             tools=toolkit
         )
     
     @agent
     def competitive_intelligence_analyst(self) -> Agent:
         return Agent(
-            config=self.agents_config["competitive_intelligence_analyst"],
+            config=self.agents_config["competitive_intelligence_analyst"],  # type: ignore[index]
             tools=toolkit
         )
     
     @agent
     def customer_insights_researcher(self) -> Agent:
         return Agent(
-            config=self.agents_config["customer_insights_researcher"],
+            config=self.agents_config["customer_insights_researcher"],  # type: ignore[index]
             tools=toolkit
         )
     
     @agent
     def product_strategy_advisor(self) -> Agent:
         return Agent(
-            config=self.agents_config["product_strategy_advisor"],
+            config=self.agents_config["product_strategy_advisor"],  # type: ignore[index]
             tools=toolkit
         )
     
@@ -65,20 +65,20 @@ class MarketResearchCrew():
     @task
     def market_research_task(self) -> Task:
         return Task(
-            config=self.tasks_config["market_research_task"]
+            config=self.tasks_config["market_research_task"]  # type: ignore[index]
         )
     
     @task
     def competitive_intelligence_task(self) -> Task:
         return Task(
-            config=self.tasks_config["competitive_intelligence_task"],
+            config=self.tasks_config["competitive_intelligence_task"],  # type: ignore[index]
             context=[self.market_research_task()]
         )
     
     @task
     def customer_insights_task(self) -> Task:
         return Task(
-            config=self.tasks_config["customer_insights_task"],
+            config=self.tasks_config["customer_insights_task"],  # type: ignore[index]
             context=[self.market_research_task(),
                      self.competitive_intelligence_task()]
         )
@@ -86,7 +86,7 @@ class MarketResearchCrew():
     @task
     def product_strategy_task(self) -> Task:
         return Task(
-            config=self.tasks_config["product_strategy_task"],
+            config=self.tasks_config["product_strategy_task"],  # type: ignore[index]
             context=[self.market_research_task(),
                      self.competitive_intelligence_task(),
                      self.customer_insights_task()]
@@ -95,7 +95,7 @@ class MarketResearchCrew():
     @task
     def business_analyst_task(self) -> Task:
         return Task(
-            config=self.tasks_config["business_analyst_task"],
+            config=self.tasks_config["business_analyst_task"],  # type: ignore[index]
             context=[self.market_research_task(),
                      self.competitive_intelligence_task(),
                      self.customer_insights_task(),
