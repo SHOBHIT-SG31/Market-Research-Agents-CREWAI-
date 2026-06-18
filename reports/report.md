@@ -49,3 +49,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 *   **Launch:** Influencer-led beta. Partner with 20 "YouTube Growth" influencers to demo the tool’s ability to "10x your social footprint."
 *   **Channels:** 
     1.  **Bottom-of-Funnel:** SEO-driven content ("How to repurpose YouTube to LinkedIn").
+    2.  **Product-Led Growth:** A "Repurposely" watermark (optional) on free-tier posts acting as a viral loop.
