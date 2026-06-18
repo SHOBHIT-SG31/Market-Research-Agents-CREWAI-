@@ -36,3 +36,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 *   **3-Year Projection (USD millions):**
 
 | Year | Revenue | Users | Margin |
+| :--- | :--- | :--- | :--- |
