@@ -45,3 +45,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 
 ---
 
+## 4. Go-to-Market Strategy
