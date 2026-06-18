@@ -26,3 +26,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 | **Agency** | $199 | SMB/Agencies | Unlimited, Team seats, White-labeling, API access. |
 
 *   **Pricing Psychology:** The "Growth" tier is anchored to the cost of a freelance copywriter (typically $300+/mo), positioning Repurposely as a 75% cost-savings solution.
+*   **Promotional Strategy:** 14-day free trial (no credit card) to demonstrate the "Aha!" moment of the first automated post.
