@@ -16,3 +16,4 @@
 
 ---
 
+## 2. Pricing Strategy
