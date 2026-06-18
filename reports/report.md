@@ -20,3 +20,4 @@
 We propose a **Value-Based Subscription Model** designed to scale from the struggling solo-creator to the lead-gen focused SMB.
 
 | Tier | Price/Mo | Target Audience | Key Features |
+| :--- | :--- | :--- | :--- |
