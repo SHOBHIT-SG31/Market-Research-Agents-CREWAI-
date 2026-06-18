@@ -56,3 +56,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 
 ## 5. Resource Requirements & Funding
 *   **Initial Funding:** $1.5M Seed Round.
+*   **Allocation:** 50% Engineering (API/Agent development), 30% Marketing (CAC), 20% Operations/Compliance.
