@@ -21,3 +21,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 
 | Tier | Price/Mo | Target Audience | Key Features |
 | :--- | :--- | :--- | :--- |
+| **Starter** | $29 | Solo Creator | 5 videos/mo, LinkedIn/X/FB, standard tone. |
