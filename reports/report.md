@@ -40,3 +40,4 @@ We propose a **Value-Based Subscription Model** designed to scale from the strug
 | 1 | $1.2M | 2,500 | 45% |
 | 2 | $5.5M | 10,000 | 65% |
 | 3 | $18.0M | 35,000 | 78% |
+
